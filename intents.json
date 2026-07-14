@@ -1,0 +1,32 @@
+{
+    "OPEN_CHROME": [
+        "open chrome",
+        "launch chrome",
+        "start browser",
+        "open my browser"
+    ],
+
+    "OPEN_YOUTUBE": [
+        "open youtube",
+        "launch youtube",
+        "go to youtube"
+    ],
+
+    "OPEN_CALCULATOR": [
+        "open calculator",
+        "start calculator",
+        "launch calculator"
+    ],
+
+    "SCREENSHOT": [
+        "take screenshot",
+        "capture screen",
+        "save my screen"
+    ],
+
+    "TIME": [
+        "tell me the time",
+        "what time is it",
+        "current time"
+    ]
+}
